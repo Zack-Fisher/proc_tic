@@ -1,6 +1,6 @@
 #!/bin/env ruby
 def compile
-    command = "gcc -o tic " + " main.c -lSDL2"
+    command = "gcc -o tic " + " *.c modules/*.c -lSDL2"
     system(command)
 end
 
