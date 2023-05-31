@@ -1,1 +1,1 @@
-simple procedural one-file tic tac toe using SDL2 and C
+C tic tac toe implementation inspired by the ideas in [this video](https://www.youtube.com/watch?v=0iyB0_qPvWk).
